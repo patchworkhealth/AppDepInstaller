@@ -14,6 +14,8 @@ It will ask you after the first setup for your user password.
 So please keep an eye on your command line and provide your password.
 
 ## Included dependencies
+Dependencies are specified in the `default.config.yml`.
+At the moment these dependencies are specified:
 - applesimutils
 - bitrise
 - idb-companion
@@ -31,3 +33,4 @@ So please keep an eye on your command line and provide your password.
 - fb-idb
 
 It also installs a default android emulator
+
