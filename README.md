@@ -13,7 +13,7 @@ bash -l -c "$(curl -sfL https://raw.githubusercontent.com/KirioXX/AppDepInstalle
 It will ask you after the first setup for your user password.
 So please keep an eye on your command line and provide your password.
 
-## Incluedet dependencies
+## Included dependencies
 - applesimutils
 - bitrise
 - idb-companion
@@ -30,4 +30,4 @@ So please keep an eye on your command line and provide your password.
 - detox-cli
 - fb-idb
 
-It also installes adds a default androoid emulator
+It also installs a default android emulator
