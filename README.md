@@ -7,7 +7,7 @@ Requirements:
 To start the installation process run this command:
 
 ```sh
-bash -l -c "$(curl -sfL https://raw.githubusercontent.com/KirioXX/AppDepInstaller/main/main.sh)"
+bash -l -c "$(curl -sfL https://raw.githubusercontent.com/patchworkhealth/AppDepInstaller/main/main.sh)"
 ```
 
 It will ask you after the first setup for your user password.
